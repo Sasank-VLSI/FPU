@@ -12,9 +12,9 @@ This project covers the block-level physical design of a 32-bit RISC-V processor
 - PrimeTime
 
 ## Technology Details
-- **Node**: 32nm
+- **Node**: 14nm
 - **Metal Layers**: 8
-- **Instance Count**: ~25K
+- **Instance Count**: ~125K
 
 ## Key Contributions
 - Performed **RTL synthesis** and timing optimization using Design Compiler.
